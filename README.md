@@ -5,29 +5,7 @@
 
 A modern, responsive, animated Book Library Web App built using React, Redux Toolkit, Vite, and Framer Motion, featuring search, category filtering, book details, and localStorage persistence.
 
-📖 Table of Contents
-
-🌟 Features
-
-🛠 Tech Stack
-
-🚀 Live Demo
-
-📦 Installation
-
-📂 Project Structure
-
-💡 How It Works
-
-🗺️ Roadmap
-
-🤝 Contributing
-
-📄 License
-
-📬 Contact
-
-🌟 Features
+📖 Table of Contents - 🌟 Features - 🛠 Tech Stack - 🚀 Live Demo - 📦 Installation - 📂 Project Structure - 💡 How It Works - 🗺️ Roadmap - 🤝 Contributing - 📄 License - 📬 Contact - 🌟 Features
 
 ✔ Responsive Design — Works on all screens
 ✔ Browse Books — Filter by Fiction, Non-Fiction, Sci-Fi
@@ -61,3 +39,7 @@ Build Tools
 Storage
 
 💾 localStorage
+
+🚀 Live Demo
+
+🔗 https://book-library-project-rajbrary.netlify.app/
